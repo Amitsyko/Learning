@@ -11,3 +11,47 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+h1{
+  font-size: 70px;
+  font-weight: 600;
+  line-height: 100px;
+}
+
+.nav-link {
+  color: white;
+  font-weight: 500;
+}
+
+p {
+  margin-top: 15px;
+}
+
+.slick-prev:before {
+  content: '←';
+  /* filter: invert(1); */
+}
+
+.slick-next:before {
+  content: '←';
+  /* filter: invert(1); */
+}
+
+.heroInner{
+  color: white;
+  padding: 120px 100px;
+  
+}
+.heroInner h1{
+  font-size: 70px;
+  line-height: 100px;
+}
+.heroInner span{
+  color: yellow;
+  font-weight: 500;
+  font-size: 22px;
+}
+
+.section2{
+  padding: 100px;
+}
