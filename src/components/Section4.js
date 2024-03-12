@@ -1,6 +1,7 @@
 // Section4.jsx
 
 import React from 'react';
+import Section5 from './Section5';
 
 
 export default function Section4() {
@@ -25,7 +26,7 @@ export default function Section4() {
             </button>
           </div>
           <div className="col-6">
-            
+           <Section5/>
           </div>
         </div>
       </div>

@@ -16,6 +16,7 @@ function App() {
       <Hero />
       <div className="text-center"><Section2/><Section3/><Section4/></div>
       
+      
     </>
   );
 }
